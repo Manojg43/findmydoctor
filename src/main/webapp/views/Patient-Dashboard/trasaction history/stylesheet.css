@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #ccc;
+  }
+  
+  .btn {
+    margin-bottom: 10px;
+  }
+  
